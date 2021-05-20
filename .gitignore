@@ -1,0 +1,7 @@
+
+# testNG
+.spyproject/*
+.spyproject/
+
+# eclipse project file
+
