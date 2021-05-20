@@ -6,7 +6,7 @@ https://numpy.org/
 https://numpy.org/doc/stable/
 
 Author - Rana Pratap
-Date - 2020
+Date - June 2021
 Version - 1.0
 """
 print(__doc__)
